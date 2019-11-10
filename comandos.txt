@@ -5,3 +5,5 @@ git log -- Ver las diferentes versiones
 git commit -- Guardar los cambios, generar un snapshot del codigo
 git chekout  --Revertir cambios
 git branch --agrega una nueva division al proyecto
+
+git clone -- Para clonar un proyecto en otra carpeta
