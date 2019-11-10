@@ -2,14 +2,11 @@ git init --agregar git al proyecto
 git status  -- Ver los archivos que contiene el proyecto
 git add --agrega el archivo al repositorios
 git log -- Ver las diferentes versiones
-<<<<<<< HEAD
-git commit (:wq)-- Guardar los cambios, generar un snapshot del codigo
-git chekout  --Revertir cambios
-git merge  (:q!)
-=======
 git commit -- Guardar los cambios, generar un snapshot del codigo
 git chekout  --Revertir cambios
 git branch --agrega una nueva division al proyecto
 
 git clone -- Para clonar un proyecto en otra carpeta
->>>>>>> usuario
+
+
+git push -u origin <branch>
