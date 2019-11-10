@@ -1,0 +1,3 @@
+git init --agregar git al proyecto
+git status  -- Ver los archivos que contiene el proyecto
+git add --agrega el archivo al repositorios
