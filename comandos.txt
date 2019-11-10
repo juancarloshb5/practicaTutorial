@@ -4,3 +4,4 @@ git add --agrega el archivo al repositorios
 git log -- Ver las diferentes versiones
 git commit -- Guardar los cambios, generar un snapshot del codigo
 git chekout  --Revertir cambios
+git branch --agrega una nueva division al proyecto
