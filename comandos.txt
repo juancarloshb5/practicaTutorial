@@ -3,3 +3,4 @@ git status  -- Ver los archivos que contiene el proyecto
 git add --agrega el archivo al repositorios
 git log -- Ver las diferentes versiones
 git commit -- Guardar los cambios, generar un snapshot del codigo
+git chekout  --Revertir cambios
